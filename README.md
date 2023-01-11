@@ -1,6 +1,6 @@
 ![Romain Gaudel banniere](https://raw.githubusercontent.com/boxtoboxyt/boxtoboxyt/main/bannerGitHub.png)
 
-## Hey 👋, Ici [Romain Gaudel!](https://github.com/boxtoboxyt)
+## Bonjour👋, Ici [Romain Gaudel!](https://github.com/boxtoboxyt)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
@@ -9,22 +9,23 @@
 
 Je suis un développeur Front-end basé dans le sud de la France. Je suis passionné par le design, l'Art Déco et les interfaces utilisateurs intuitives.
 
-### Talking about Personal Stuffs:
+### A-propos de moi:
 
 - 🛠 &nbsp; Je code actuellement avec React, Javascript, Typescript, Sass, Nodejs etc.
 - 🚀 &nbsp; Je continue de perfectionner mon algorithmie.
 - 👨🏻‍💻 &nbsp; La plupart de mes projets son ici [Github](https://github.com/boxtoboxyt).
 - 👾 &nbsp; Fun fact: égal n'est pas toujours égal Javascript.
+- 📚 J'aime lire des comics que je partage sur ma chaine Youtube(13k).	
 - 📫 &nbsp; Pour me contacter: romaingaudel83@gmail.com.
 - 📝 &nbsp; Pour voir mon [CV](https://github.com/boxtoboxyt/boxtoboxyt/blob/main/CV-Romain-Gaudel.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; Apprendre des nouvelles technos(code, AI...)
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+### Languages:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
