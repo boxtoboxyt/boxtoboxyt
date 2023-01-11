@@ -1,25 +1,22 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+![Romain Gaudel banniere](https://raw.githubusercontent.com/boxtoboxyt/boxtoboxyt/main/bannerGitHub.png)
 
 ## Hey 👋, Ici [Romain Gaudel!](https://github.com/boxtoboxyt)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 
-### Content de vous voir sur ma page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Content de vous voir sur ma page!
 
 Je suis un développeur Front-end basé dans le sud de la France. Je suis passionné par le design, l'Art Déco et les interfaces utilisateurs intuitives.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boxtoboxyt).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: romaingaudel83@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 🛠 &nbsp; Je code actuellement avec React, Javascript, Typescript, Sass, Nodejs etc.
+- 🚀 &nbsp; Je continue de perfectionner mon algorithmie.
+- 👨🏻‍💻 &nbsp; La plupart de mes projets son ici [Github](https://github.com/boxtoboxyt).
+- 👾 &nbsp; Fun fact: égal n'est pas toujours égal Javascript.
+- 📫 &nbsp; Pour me contacter: romaingaudel83@gmail.com.
+- 📝 &nbsp; Pour voir mon [CV](https://github.com/boxtoboxyt/boxtoboxyt/blob/main/CV-Romain-Gaudel.pdf).
 
 ### My Absolute Favorites:
 
@@ -40,10 +37,6 @@ Je suis un développeur Front-end basé dans le sud de la France. Je suis passio
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Projects and Dev Stuffs:
 
@@ -131,9 +124,3 @@ Je suis un développeur Front-end basé dans le sud de la France. Je suis passio
 </details>
 
 #
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
